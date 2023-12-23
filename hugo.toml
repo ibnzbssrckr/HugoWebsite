@@ -1,4 +1,4 @@
 baseURL = 'https://www.michaelgeissler.me/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+title = "General Tech Blog and Learnings"
+theme = 'hugo-ficurinia'
